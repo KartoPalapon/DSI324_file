@@ -1,0 +1,32 @@
+﻿faculty_id,th_name,eng_name
+1,คณะนิติศาสตร์,Faculty of Law
+2,คณะพาณิชยศาสตร์และการบัญชี,Faculty of Commerce and Accountancy
+3,คณะรัฐศาสตร์,Faculty of Political Science
+4,คณะเศรษฐศาสตร์,Faculty of Economics
+5,คณะสังคมสงเคราะห์ศาสตร์,Faculty of Social Administration
+6,คณะศิลปศาสตร์,Faculty of Liberal Arts
+7,คณะวารสารศาสตร์และสื่อสารมวลชน,Faculty of Journalism and Mass Communication
+8,คณะสังคมวิทยาและมานุษยวิทยา,Faculty of Sociology and Anthropology
+9,คณะวิทยาศาสตร์และเทคโนโลยี,Faculty of Science and Technology
+10,คณะวิศวกรรมศาสตร์,Faculty of Engineering
+11,คณะแพทยศาสตร์,Faculty of Medicine
+12,คณะสหเวชศาสตร์,Faculty of Allied Health Sciences
+13,คณะทันตแพทยศาสตร์,Faculty of Dentistry
+14,คณะพยาบาลศาสตร์,Faculty of Nursing
+15,คณะศิลปกรรมศาสตร์,Faculty of Fine and Applied Arts
+16,คณะสถาปัตยกรรมศาสตร์และการผังเมือง,Faculty of Architecture and Urban Planning
+17,คณะสาธารณสุขศาสตร์,Faculty of Public Health
+18,คณะเภสัชศาสตร์,Faculty of Pharmacy
+19,คณะวิทยาการเรียนรู้และศึกษาศาสตร์,Faculty of Learning Sciences and Education
+21,สถาบันภาษา,Language Institute
+22,สถาบันเทคโนโลยีนานาชาติสิรินธร,Sirindhorn International Institute of Technology (SIIT)
+23,วิทยาลัยนวัตกรรม,College of Innovation
+24,วิทยาลัยสหวิทยาการ,College of Interdisciplinary Studies
+26,โครงการไทยศึกษา,Thai Studies Program
+27,วิทยาลัยนานาชาติปรีดี พนมยงค์,Pridi Banomyong International College
+28,วิทยาลัยโลกคดีศึกษา,College of Global Studies
+29,วิทยาลัยแพทยศาสตร์นานาชาติจุฬาภรณ์,Chulabhorn International College of Medicine
+30,วิทยาลัยพัฒนศาสตร์ ป๋วย อึ๊งภากรณ์,Puey Ungphakorn School of Development Studies
+64,คณะนิติศาสตร์และคณะเศรษฐศาสตร์,Faculty of Law and Faculty of Economics
+65,คณะวิทยาศาสตร์และเทคโนโลยี และสถาบันเทคโนโลยีนานาชาติสิรินธร,Faculty of Science and Technology and Sirindhorn International Institute of Technology
+66,วิทยาลัยสหวิทยาการและสถาบันอาณาบริเวณศึกษา มหาวิทยาลัยธรรมศาสตร์,"College of Interdisciplinary Studies and Institute of Area Studies, Thammasat University"
